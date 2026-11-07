@@ -9,6 +9,10 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\CalculatorPrivateAssembly\CalculatorPrivateAssembly.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
     <Compile Update="FrmCalculator.cs">
       <SubType>Form</SubType>
     </Compile>
