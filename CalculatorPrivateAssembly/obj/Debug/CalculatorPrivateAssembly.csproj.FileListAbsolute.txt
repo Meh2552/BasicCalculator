@@ -1,0 +1,12 @@
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorApplication\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorApplication\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorApplication\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorApplication\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorApplication\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.dll
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorApplication\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.dll
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorPrivateAssembly\bin\Debug\CalculatorPrivateAssembly.pdb
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.AssemblyReference.cache
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.csproj.CoreCompileInputs.cache
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.dll
+C:\Users\pomaris.402145\source\repos\Meh2552\CalculatorPrivateAssembly\obj\Debug\CalculatorPrivateAssembly.pdb
